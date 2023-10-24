@@ -1,3 +1,6 @@
+#!groovy
+// Run docker build
+
 pipeline {
     agent {
         label 'master'
